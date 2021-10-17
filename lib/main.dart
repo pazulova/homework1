@@ -8,8 +8,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Belajar Flutter',
       theme: ThemeData(
-        primarySwatch: Colors.orange,
-      ),
+          // primarySwatch: Colors.orange,
+          ),
       home: Home(),
     );
   }
